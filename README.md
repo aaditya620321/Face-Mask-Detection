@@ -16,7 +16,7 @@ This project aims to create a face mask detection system using Convolutional Neu
 - **Data Augmentation**: Utilizes `ImageDataGenerator` for real-time data augmentation.
 - **Model Architecture**: Consists of convolutional layers, max pooling layers, dropout layers, and dense layers.
 - **Training and Validation**: Trains the model with training data and validates it using validation data.
-- **Real-Time Detection**: Uses OpenCV to process video input and detect the presence of a face mask
+- **Real-Time Detection**: Uses OpenCV to process video input and detect the presence of a face mask.
 
 ## How to Run
 
