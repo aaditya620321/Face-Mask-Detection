@@ -1,8 +1,8 @@
 # Face Mask Detection
 
 ## Introduction
-This project aims to create a face mask detection system using Convolutional Neural Networks (CNNs). It uses the TensorFlow and Keras libraries to build and train the model, and the OpenCV library to process video input for real-time detection
-
+This project aims to create a face mask detection system using Convolutional Neural Networks (CNNs). It uses the TensorFlow and Keras libraries to build and train the model, and the OpenCV library to process video input for real-time detection.
+.
 ## Technologies Used
 - **Python**: Programming language used for the project.
 - **TensorFlow**: Open-source machine learning framework used to build and train the model.
